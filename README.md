@@ -2,7 +2,7 @@
 
 <h2>1001개 Walmart 제품의 샘플 データセット</h2>
 
-![Walmart dataset header](https://github.com/luminati-io/Walmart-dataset-samples/blob/main/walmart-datasets.PNG)
+![Walmart dataset header](https://github.com/bright-kr/Walmart-dataset-samples/blob/main/walmart-datasets.PNG)
 
 1000개 이상의 제품으로 구성된 Walmart データセット 샘플입니다. データセット는 <b>Bright Data API</b>를 사용하여 추출되었습니다.
 
@@ -45,7 +45,7 @@
 
 <b>[전체 Walmart データセット 받기](https://brightdata.co.kr/products/datasets/walmart)</b>.
 
-![Walmart dataset visual](https://github.com/luminati-io/Walmart-dataset-samples/blob/main/walmart-datasets-image.PNG)
+![Walmart dataset visual](https://github.com/bright-kr/Walmart-dataset-samples/blob/main/walmart-datasets-image.PNG)
 
 <h2>Walmart データセット의 활용 사례는 무엇입니까?</h2>
 
