@@ -1,4 +1,4 @@
-# Walmart-dataset-samples
+# Walmart 데이터셋 샘플
 
 <h2>1001개 Walmart 제품의 샘플 データセット</h2>
 
